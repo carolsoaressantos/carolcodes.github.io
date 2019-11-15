@@ -1,44 +1,44 @@
 ---
 layout: post
-title:  Believe in the workflow
+title:  O que eu fiz errado na aprendizagem autodidata de tecnologia 
 date:   2019-07-24 15:01:35 +0300
 image:  '/assets/img/02.jpg'
 tags:   [switzerland, heels, chair, blog]
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Durante os últimos (quase) três anos tenho diariamente estudado, trabalhado e colocado em prática conhecimentos de tecnologia que adquiri quando decidi mudar de área. Acontece que o processo de estudar uma coisa totalmente nova, do zero e sozinha, não foi o grande mar de rosas que dizem os posts sobre autodidatas por aí, mas por sorte, você pode aprender com os erros que eu cometi - e quem sabe isso facilite o seu processo de aprendizagem.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution.
+Todas os tópicos abordados nesse texto são baseados na minha experiência pessoal e claro, pode não se aplicar diretamente ao seu momento de vida, carreira ou estudos.
 
 ---
 
-## Quickly deploy strategic
+## Subestimei as bases de computação
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. **Nanotechnology immersion along the information** highway will close the loop on focusing solely on the bottom line. Podcasting operational change management inside of workflows to establish a framework.
+Após entender algumas das áreas que poderia trabalhar em tecnologia eu decidi que queria ser uma desenvolvedora front end e com isso, fui fazer pesquisas sobre o que eu deveria estudar. Nesse processo, encontrei listas enormes de frameworks e posts de "melhores linguagens de programação", ainda não convencida eu começei a trocar ideias com algumas pessoas em meetups* e recebi os conselhos de que deveria aprender HTML e CSS, pois essas seriam as bases importantes antes de partir para algum framework ou linguagem de programação.
+Bom, deu certo - mas não da melhor maneira. Acontece que com o tempo eu comecei a não entender coisas como a lentidão de algumas aplicações que desenvolvia, o porquê de algumas coisas se comportarem de maneiras distintas em determinados ambientes e até a resolver problemas de lógica mais complexos (e que me economizariam uma ótima quantidade de linhas de código).
+Tudo isso se deu pelo fato de que eu pulei etapas importantes e que no dia a dia fariam meu código ser mais limpo, legível, leve e eficaz. A ânsia por ver as coisas acontecendo na tela e de aprender algo "mais fácil" acabou complicando muito mais as coisas para a Carol do futuro.
+Se você hoje quer aprender ou está aprendendo a programar recomendo fortemente que estude Lógica, como funciona a internet, como funcionam computadores e programas, estrutura de dados, arquitetura etc.
+A pessoa programadora do futuro vai te agradecer por facilitar a vida dela.
 
-Globally incubate standards compliant channels:
+## Li demais, pratiquei de menos
 
-> Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.
+Essa é a clássica. Quando se procura por qualquer tipo de conteúdo de tecnologia na internet você encontra inúmeros posts, tutoriais, tweets, videos e agora até podcasts com maneiras diferentes de se fazer as coisas, porém, isso me trouxe um desvio de foco absurdo e uma neura sem tamanho de ficar verificando as informações em lugares diferentes - o que atrapalhou não só a quantidade da prática, mas também a qualidade dela.
+Acredito que a melhor maneira de se aprender algo é também praticar - mas não de qualquer jeito - com foco. Ter ciclos de descanso e finalizar algo que você começou, desde aquele simples CSS até uma aplicação por completo.
+A falta de prática nos coloca num estado inseguro e ansioso por mais tutoriais e informações que não vão conseguir compreender até ver aquilo funcionando, para assim saber onde temos mais dificuldades e podermos ser assertivos e eficazes com as pesquisas.
 
-> Efficiently unleash cross-media information without cross-media value. Quickly maximize timely deliverables for real-time schemas. Dramatically maintain clicks-and-mortar solutions without functional solutions.
+## Estudei de maneira desconexa
 
-Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.
+Este tópico é totalmente relacionado ao anterior, por conta da grande quantidade de conteúdo, evento e pessoas dispostas a ajudar me deu aquela vontade de aprender um pouco de tudo sabe? E veja, isso não é ruim, mas para quem está estudando (principalmente no meu caso, que era uma transição de carreira) é importante uma lineariedade nos estudos, se as coisas não estiverem correlacionadas muito dificilmente a gente consegue resolver algum problema, dar uma manutenção ou entender aquele código posteriormente.
+Você pode sim querer (e é ótimo isso)saber sobre um pouco de cada área, mas tenha um objetivo claro de como isso se relacionaria com o que você precisa saber hoje e se for o caso, guarde o assunto para ser visto em um outro momento.
 
-## Dramatically web services.
+## Não segui um cronograma
 
-Proactively envisioned multimedia based expertise and cross-media growth strategies. Seamlessly visualize quality intellectual capital without superior collaboration and idea-sharing. Holistically pontificate installed base portals after maintainable products.
+Estudos eficazes são ciclícos e precisam de repetição e conexão. Como você já pode perceber acima, a minha ansiedade de ver as coisas acontecerem e de aprender muito, fez com que eu me atrapalhasse no processo, tivesse horários estranhos de estudo, quantidades sempre exageradas e pouca eficassia. Com o tempo eu percebi a importancia de aprender a estudar direito, com um tempo dedicado, foco e ter claro o que eu precisava fazer naquele momento - uma agenda de estudos mesmo.
 
-* **Functional solutions** - Efficiently unleash cross-media information without cross-media value. Quickly maximize timely deliverables for real-time schemas.
+    Segunda das 07:00 as 08:00 - Styled Components
+    Terça das 19:00 as 20:00 - Git avançado
 
-* **Objectively innovate** - Holisticly predominate extensible testing procedures for reliable supply chains. Dramatically engage top-line web services vis-a-vis cutting-edge deliverables.
 
-* **Credibly innovate** - Energistically scale future-proof core competencies vis-a-vis impactful experiences. Dramatically synthesize integrated schemas with optimal networks.
+No meu método de estudar hoje, eu uso um board no Trello com os cursos que estou fazendo (nunca faço mais de 2 ao mesmo tempo), cada card eu transformo em um módulo do curso e vou movendo conforme ele vai sendo feito. Também uso o Pocket para salvar textos e artigos que quero ver depois e nos minutos finais de estudos eu os leio, se for algo simples eu já tiro da lista assim que terminar e se for mais complexo eu crio um card para estudá-lo depois. Intercalo os cursos e faço conforme posso, tento reservar uma hora por dia (de segunda à sexta) e se possível deixo que os assuntos sejam relacionados para facilitar o aprendizado.
 
-* **Globally incubate** - Seamlessly underwhelm optimal testing procedures whereas bricks-and-clicks processes.
+## Neguei a importância da academia
 
-Phosfluorescently engage worldwide methodologies with web-enabled technology. Interactively coordinate proactive e-commerce via process-centric "outside the box" thinking. Completely pursue scalable customer service through sustainable potentialities.
-
-![]({{site.baseurl}}/assets/img/05.jpg)
-
-Dynamically target high-payoff intellectual capital for customized technologies. Objectively integrate emerging core competencies before process-centric communities. Dramatically evisculate holistic innovation rather than client-centric data.
-
-Progressively maintain extensive infomediaries via extensible niches. Dramatically disseminate standardized metrics after resource-leveling processes. Objectively pursue diverse catalysts for change for interoperable meta-services.
