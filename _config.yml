@@ -1,17 +1,17 @@
-title: Derrick Wells – Independent Product Designer
+title: Divaloper
 logo:  # you can add own logo.
-description: Passionate designer curating designs for new startups  and  founders  and crafts  beautiful user interfaces with love.
+description: Blog de tecnologia e programação.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://carolcodes.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Author Settings
 author:
-  name: Derrick Wells
+  name: DIVALOPER
   image: '/assets/img/01.jpg'
-  job: Independent Product Designer
+  job: Oi, eu sou a Carol!
   bio: Passionate designer curating designs for new startups  and  founders  and crafts  beautiful user interfaces with love.
-  email: forexample@website.com
+  email: carolinesoareessantoss@gmail.com
 
 
 # Contact links
@@ -25,11 +25,11 @@ contact:
 
 
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: disqus_sl7KufrOKx  # add your shortname for Disqus Comment. For example mr-brown
 
 
 # Google Analytics
-google-analytics: # add your identifier. For example UA-99631805-1.
+google-analytics: G-X9GZ2DMJX2 # add your identifier. For example UA-99631805-1.
 
 
 # Build settings
