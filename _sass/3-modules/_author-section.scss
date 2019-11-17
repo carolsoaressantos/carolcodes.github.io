@@ -11,8 +11,8 @@
 
 .author__img {
   display: block;
-  max-width: 200px;
-  max-height: 200px;
+  max-width: 300px;
+  max-height: 300px;
   margin: 0 auto 30px;
   border-radius: 50%;
   background-color: $gray-white;
@@ -26,9 +26,11 @@
 
 .author__job {
   margin-bottom: 15px;
-  font-size: 37px;
+  font-size: 40px;
   text-align: center;
-  color: $gray;
+  color: black;
+  font-weight: bolder;
+
 }
 
 .author__bio {
@@ -37,7 +39,8 @@
   font-size: 16px;
   line-height: 27px;
   text-align: center;
-  color: $gray-blue;
+  color: dimgrey;
+  font-family: 'Anonymous Pro', monospace; 
 }
 
 .socialmedia {
