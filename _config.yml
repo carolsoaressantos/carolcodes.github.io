@@ -10,18 +10,20 @@ author:
   name: DIVALOPER
   image: '/assets/img/01.jpg'
   job: Oi, eu sou a Carol!
-  bio: Passionate designer curating designs for new startups  and  founders  and crafts  beautiful user interfaces with love.
+  bio: Front End Divaloper, palestrante, criadora do Minas do Open Source e Lovelace Podcast. Cafezeira, fã de Star Wars e meme.
   email: carolinesoareessantoss@gmail.com
 
 
 # Contact links
 contact:
   - name: Twitter
-    link: https://twitter.com/
-  - name: Facebook
-    link: https://facebook.com/
+    link: https://twitter.com/carolcode
+  - name: Github
+    link: https://github.com/carolcodes
   - name: Instagram
-    link: https://instagram.com/
+    link: https://instagram.com/carolcode
+  - name: Linkedin
+    link: https://linkedin.com/in/carolcode
 
 
 # Comment Section (Disqus)
