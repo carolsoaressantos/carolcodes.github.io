@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  O que eu fiz errado na aprendizagem autodidata de tecnologia 
-date:   2019-07-24 15:01:35 +0300
+date:   2019-11-18 15:01:35 +0300
 image:  '/assets/img/02.jpg'
-tags:   [switzerland, heels, chair, blog]
+tags:   [estudos, carreira, autodidata]
 ---
 Durante os últimos (quase) três anos tenho diariamente estudado, trabalhado e colocado em prática conhecimentos de tecnologia que adquiri quando decidi mudar de área. Acontece que o processo de estudar uma coisa totalmente nova, do zero e sozinha, não foi o grande mar de rosas que dizem os posts sobre autodidatas por aí, mas por sorte, você pode aprender com os erros que eu cometi - e quem sabe isso facilite o seu processo de aprendizagem.
 
@@ -42,3 +42,33 @@ No meu método de estudar hoje, eu uso um board no Trello com os cursos que esto
 
 ## Neguei a importância da academia
 
+*O acesso a universidade é elitista e exclusor, esse tópico é do ponto de vista de alguém que tem o privilégio de poder cursar uma, mas que escolheu não fazer.*
+
+Eu que já tinha feito um curso de quatro anos, que tinha me tirava a energia por ter que cruzar a cidade no ritmo casa > trabalho > faculdade, tinha pavor em ouvir sobre pisar numa universidade de novo. Tinha planos futuros de quem sabe fazer um mestrado, mas isso muito lá com a Carol do futuro meeeeesmo. Me escondi no quentinho de conseguir aprender as coisas online e com alguns cursos presenciais e começei a espalhar a a premissa simplista de que em tecnologia não precisa fazer faculdade - até porque você não aprende a programar na faculdade e blá blá blá.
+Realmente eu não conheço ainda uma pessoa que programa dizendo que aprendeu isso na faculdade, mas ai que tecnologia é bem mais que escrever código...lembra do tópico lá em cima sobre as bases de computação? Então! Aprende na faculdade. Pesquisa,matemática, desenvolvimento de soluções através de tecnologia e até aquela possibilidade de trabalhar no exterior é facilitada com seu diploma na mão. Por isso eu repito, você não precisa cursar uma graduação ou algo do tipo, mas se puder, faça - isso faz diferença não só para a sua jornada profissional mas também para o mercado em si.
+E ah, a Carol do futuro vai cursar Análise e desenvolvimento de sistemas :)
+
+## Descansei Pouco
+
+Repete comigo:
+Qualidade não é quantidade.
+Qualidade não é quantidade.
+Qualidade não é quantidade.
+Pois bem, diminui horas de sono, de diversão e de ócio pra ficar estudando e só eu sei como isso acabou comigo. Aumentou a dificuldade de foco, de entendimento e de conectar os conteúdos por conta dessa pressa.
+Claro que em alguns momentos precisamos sacrificar um pouco dessas coisas, mas ter isso como prática, não é nada sustentável.
+Estude um pouco por dia, pratique, matenha frequência e descanse - andar um pouco todo dia é melhor que correr um dia só.
+
+________________________________
+
+Abaixo, algumas coisas que eu gostaria de ler/conhecer antes desse processo e que pode te ajudar:
+
+- [Os caminhos da engenharia de software: o que estudar](https://woliveiras.com.br/posts/os-caminhos-da-engenharia-de-software-o-que-estudar/)
+- [O que significa estar acima da média?](https://medium.com/startup-da-real/o-que-significa-estar-acima-da-m%C3%A9dia-ab019177aee4)
+- [The student guide to Trello](https://medium.com/keep-productive/how-to-use-trello-as-a-student-df7b2ec2c451)
+
+_________________
+
+**meetups: encontros que acontecem online ou presencialmente organizados pela plataforma Meetup e que abordam assuntos diversos.*
+_________________
+
+Se você gostou desse texto, tem alguma experiência pra compartilhar ou alguma crítica a fazer - use e abuse dos comentários, eu vou adorar a sua participação. Aproveita e compartilha nas suas redes, grupos e com pessoas que possam gostar :)
