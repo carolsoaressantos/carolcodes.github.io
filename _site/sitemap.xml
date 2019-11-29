@@ -5,6 +5,10 @@
 <lastmod>2019-11-18T09:01:35-03:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/2019/11/29/black-friday-2019/</loc>
+<lastmod>2019-11-29T00:02:00-03:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
@@ -18,5 +22,14 @@
 </url>
 <url>
 <loc>http://localhost:4000/tag/autodidata/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tag/gadgets/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tag/compras/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tag/black-friday/</loc>
 </url>
 </urlset>
