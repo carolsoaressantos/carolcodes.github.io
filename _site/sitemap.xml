@@ -9,6 +9,10 @@
 <lastmod>2019-11-29T00:02:00-03:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/2019/12/06/aprenda-a-programar-de-graca-e-online/</loc>
+<lastmod>2019-12-06T15:01:35-03:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
@@ -31,5 +35,11 @@
 </url>
 <url>
 <loc>http://localhost:4000/tag/black-friday/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tag/programacao/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tag/cursos/</loc>
 </url>
 </urlset>
