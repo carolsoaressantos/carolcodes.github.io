@@ -104,7 +104,7 @@ Sobre os cursos de lógica, procure por algum na linguagem que você está inter
 - [Blog da Rachel](https://rachc.dev/)
 - [Blog do Will](https://woliveiras.com.br/)
 - [Evil Packet](https://blog.evilpacket.net/posts/)
-- [Blog da Jess](https://woliveiras.com.br/)
+- [Blog da Jess](https://jtemporal.com/)
 - [Coding rights](https://medium.com/@codingrights)
 - [freeCodeCamp](https://medium.com/free-code-camp)
 - [Training Center](https://medium.com/trainingcenter)
