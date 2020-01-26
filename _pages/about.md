@@ -10,8 +10,6 @@ Oi, eu sou a Carol, mas na internet as pessoas me conhecem como [@carolcode](htt
 
 ### Meus Projetos
 
-- [Minas do Open Source](https://twitter.com/minasopensource) - Comunidade de tecnologia para mulheres com foco em projetos open source.
-  
 - [Lista Open Source de canais no Youtube e Streaming em português focados no ensino de tecnologia](https://github.com/carolcodes/videos-pt.br-tecnologia) - Awesome list open source para divulgação de conteúdo técnico em português.
   
 ### Freelancer
